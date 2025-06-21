@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 nickname password
+=======
+nickname password
+>>>>>>> 136c7ff90a84c0d69493b0654692f38e85e31b4e
 Nickname Password
